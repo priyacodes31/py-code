@@ -6,4 +6,4 @@ Lists
 Tuples
 Dictionaries
 Sets
-loops
+loops-while,for,nested loop
